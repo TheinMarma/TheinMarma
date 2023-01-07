@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheinMarma
-- 👀 I’m interested in ... Responsive WordPress Website Design
-- 🌱 I’m currently learning ... HTML, CSS & JS
-- 💞️ I’m looking to collaborate on ... WordPress Website Designer
+- 👀 I’m interested in ... C++, CSS, JS, Python
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Via E-mail: theinmarma6@gmail.com
 
 <!---

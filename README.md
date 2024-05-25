@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheinMarma
-- 👀 I’m interested in ..., CSS, JavaScript, PHP & Python
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ..., CSS, JavaScript, PHP
+- 🌱 I’m currently learning ... JavaScript
 - 📫 How to reach me ... Via E-mail: theinmarma6@gmail.com
 
 <!---

@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @TheinMarma
-- 👀 I’m interested in ..., CSS, JavaScript, PHP
-- 🌱 I’m currently learning ... JavaScript
-- 📫 How to reach me ... Via E-mail: theinmarma6@gmail.com
+<h2> Top Rated Freelancer on Upwork ...  https://upwork.com/freelancers/theinmmarma </h2>
+
+- 👋 Hi, I’m @TheinMarma |<u><strong> WordPress web Developer</strong> </u>
+- 📫 How to reach me ... Via E-mail: theinmarma7@gmail.com
+
 
 <!---
 TheinMarma/TheinMarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
